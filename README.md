@@ -2,7 +2,7 @@
 ## 劳动？打工？直面资本主义生存方式
 ## Free Labor? Wage Labor? Confronting Capitalist Modes of Living
 
-Welcome! This repository contains slides and supplemental readings in this class.  
+Welcome! This repository contains the slides and the supplemental readings in this course.  
 
 ## 1. Slides
 Day 1: Smith
