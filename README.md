@@ -11,4 +11,3 @@ Day 2(Cont.): Women, patriachy, and capitalism
 Day 3: State and market economies: Polanyi and others  
 Day 4: Unemployment, work ethic, and idleness  
 
-## 2. Supplemental Readings
