@@ -1,6 +1,6 @@
 # HSYLC 2021 Seminar 3209
 ## 劳动？打工？直面资本主义生存方式  
-Free Labor? Wage Labor? Confronting Capitalist Modes of Living
+Free Labor? Wage Labor? Confronting Living under Capitalism
 
 
 ## Description
