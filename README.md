@@ -13,5 +13,5 @@ Welcome! This repository contains the slides and the assignment prompts for HSYL
 **Day 4**: Unemployment, work ethic, and idleness  
 
 ## 2. Assignments
-**Midterm Assignment**. 
+**Midterm Assignment**   
 **Final Assignment**
