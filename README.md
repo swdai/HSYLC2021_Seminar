@@ -1,5 +1,7 @@
 # HSYLC 2021 Course 3209 Repo
+
 ## 劳动？打工？直面资本主义生存方式
+
 ## Free Labor? Wage Labor? Confronting Capitalist Modes of Living
 
 Welcome! This repository contains the slides and the supplemental readings in this course.  
